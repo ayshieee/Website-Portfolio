@@ -21,4 +21,4 @@ This site showcases my journey as a second-year Information Technology student w
 
 ## 📸 Live Preview
 
-Check out the live site here: **[Your Live URL Here](#)**  
+Check out the live site here: **[[Your Live URL Here](https://website-portfolio-cy2f.vercel.app/)]**  
